@@ -1,0 +1,39 @@
+.btn {
+    border: 2px solid #fff;
+    border-radius: 10px;
+    color: hsl(229, 25%, 31%);
+    font-family: inherit;
+    padding: 10px 25px;
+    letter-spacing: 2px;
+    font-size: 20px;
+    background-color: #fff;
+    text-transform: uppercase;
+}
+
+.selection {
+    display: none;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    width: 1000px;
+    max-width: 100%;
+    margin: 0 auto;
+}
+
+.selection  .btn-circle {
+    margin: 50px 100px;
+    transform: scale(1.4);
+}
+
+h2 {
+    letter-spacing: 2px;
+    text-transform: uppercase;
+}
+
+.big-text {
+    font-size: 3rem;
+    margin: 0 0 20px;
+    line-height: 0.8;
+    text-transform: uppercase;
+}
